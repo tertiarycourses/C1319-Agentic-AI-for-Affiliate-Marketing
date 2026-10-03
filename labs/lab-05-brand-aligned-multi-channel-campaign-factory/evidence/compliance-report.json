@@ -1,0 +1,35 @@
+[
+  {
+    "asset_id": "A-01",
+    "channel": "blog",
+    "headline": "Plan with more flexibility",
+    "claim": "flexible cancellation on eligible bookings",
+    "disclosure": "This content contains affiliate links.",
+    "cta_url": "https://example.com/book",
+    "status": "release_candidate",
+    "errors": []
+  },
+  {
+    "asset_id": "A-02",
+    "channel": "email",
+    "headline": "Your flexible travel shortlist",
+    "claim": "guaranteed lowest price",
+    "disclosure": "",
+    "cta_url": "https://example.com/book",
+    "status": "blocked",
+    "errors": [
+      "unapproved_claim",
+      "missing_disclosure"
+    ]
+  },
+  {
+    "asset_id": "A-03",
+    "channel": "video",
+    "headline": "Compare flexible booking options",
+    "claim": "flexible cancellation on eligible bookings",
+    "disclosure": "Affiliate link disclosure",
+    "cta_url": "https://example.com/book",
+    "status": "release_candidate",
+    "errors": []
+  }
+]

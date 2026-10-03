@@ -1,0 +1,44 @@
+[
+  {
+    "offer_id": "OFF-A",
+    "niche": "travel-planning",
+    "commission_rate": "0.12",
+    "aov": "140",
+    "conversion_rate": "0.032",
+    "refund_rate": "0.09",
+    "cookie_days": "30",
+    "evidence_score": "92",
+    "policy_score": "95",
+    "refund_adjusted_epc": 0.4892,
+    "break_even_cpc": 0.4892,
+    "hard_gate_pass": true
+  },
+  {
+    "offer_id": "OFF-B",
+    "niche": "travel-planning",
+    "commission_rate": "0.18",
+    "aov": "95",
+    "conversion_rate": "0.024",
+    "refund_rate": "0.17",
+    "cookie_days": "7",
+    "evidence_score": "68",
+    "policy_score": "72",
+    "refund_adjusted_epc": 0.3406,
+    "break_even_cpc": 0.3406,
+    "hard_gate_pass": false
+  },
+  {
+    "offer_id": "OFF-C",
+    "niche": "creator-software",
+    "commission_rate": "0.25",
+    "aov": "60",
+    "conversion_rate": "0.048",
+    "refund_rate": "0.05",
+    "cookie_days": "45",
+    "evidence_score": "88",
+    "policy_score": "90",
+    "refund_adjusted_epc": 0.684,
+    "break_even_cpc": 0.684,
+    "hard_gate_pass": true
+  }
+]

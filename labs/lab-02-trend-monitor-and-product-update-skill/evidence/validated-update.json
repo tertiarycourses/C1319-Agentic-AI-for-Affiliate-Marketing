@@ -1,0 +1,12 @@
+{
+  "product_id": "PROD-TRAVEL-01",
+  "effective_at": "2026-09-10",
+  "accepted_signal_ids": [
+    "SIG-01",
+    "SIG-02"
+  ],
+  "approved_claims": [
+    "flexible cancellation on eligible bookings"
+  ],
+  "requires_human_release": true
+}

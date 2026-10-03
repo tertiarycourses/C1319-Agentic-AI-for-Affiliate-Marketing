@@ -1,0 +1,20 @@
+{
+  "campaign_id": "AFF-2026-09",
+  "brief_version": 3,
+  "audience_job": "plan a regional trip",
+  "product_id": "PROD-TRAVEL-01",
+  "approved_claims": [
+    "flexible cancellation on eligible bookings"
+  ],
+  "prohibited_claims": [
+    "guaranteed lowest price"
+  ],
+  "disclosure": "This content contains affiliate links.",
+  "channels": [
+    "blog",
+    "email",
+    "video"
+  ],
+  "cta_url": "https://example.com/book",
+  "human_approver": "Campaign Owner"
+}

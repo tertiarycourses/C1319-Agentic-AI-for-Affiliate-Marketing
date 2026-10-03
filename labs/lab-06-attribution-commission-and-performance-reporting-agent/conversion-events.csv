@@ -1,0 +1,5 @@
+order_id,click_id,partner_id,revenue,status
+O1,C1,P-101,240,approved
+O2,C2,P-103,180,approved
+O3,C9,P-104,150,approved
+O4,C3,P-104,120,reversed

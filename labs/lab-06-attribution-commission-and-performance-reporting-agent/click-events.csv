@@ -1,0 +1,5 @@
+click_id,campaign_id,partner_id,asset_id,channel,occurred_at
+C1,AFF-2026-09,P-101,A-01,blog,2026-09-12T02:00:00Z
+C2,AFF-2026-09,P-103,A-03,video,2026-09-12T02:03:00Z
+C2,AFF-2026-09,P-103,A-03,video,2026-09-12T02:03:00Z
+C3,AFF-2026-09,P-104,A-02,email,2026-09-12T02:05:00Z

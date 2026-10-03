@@ -1,0 +1,4 @@
+signal_id,observation,source_url,published_at,captured_at,confidence,product_id
+SIG-01,Merchant introduced flexible cancellation,https://example.com/products/terms,2026-08-28,2026-09-05,high,PROD-TRAVEL-01
+SIG-02,Short-form comparison content increased,https://example.com/research/channel,2026-08-25,2026-09-05,medium,PROD-TRAVEL-01
+SIG-03,Unverified claim of guaranteed savings,https://example.com/community/post,2026-09-01,2026-09-05,low,PROD-TRAVEL-01

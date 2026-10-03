@@ -1,0 +1,46 @@
+[
+  {
+    "partner_id": "P-101",
+    "channel": "blog",
+    "score": "86.1",
+    "forecast_clicks": "2400",
+    "forecast_conversions": "96",
+    "commission_rate": "0.12",
+    "traffic_share": 0.2087,
+    "concentration_flag": false,
+    "communication_status": "draft_review"
+  },
+  {
+    "partner_id": "P-103",
+    "channel": "video",
+    "score": "84.3",
+    "forecast_clicks": "3200",
+    "forecast_conversions": "102",
+    "commission_rate": "0.12",
+    "traffic_share": 0.2783,
+    "concentration_flag": false,
+    "communication_status": "draft_review"
+  },
+  {
+    "partner_id": "P-104",
+    "channel": "email",
+    "score": "78.8",
+    "forecast_clicks": "1800",
+    "forecast_conversions": "108",
+    "commission_rate": "0.12",
+    "traffic_share": 0.1565,
+    "concentration_flag": false,
+    "communication_status": "draft_review"
+  },
+  {
+    "partner_id": "P-105",
+    "channel": "social",
+    "score": "73.5",
+    "forecast_clicks": "4100",
+    "forecast_conversions": "74",
+    "commission_rate": "0.10",
+    "traffic_share": 0.3565,
+    "concentration_flag": false,
+    "communication_status": "draft_review"
+  }
+]

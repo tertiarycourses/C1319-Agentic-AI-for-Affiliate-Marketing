@@ -1,0 +1,18 @@
+{
+  "period": "2026-09-12",
+  "unique_clicks": 3,
+  "approved_orders": 2,
+  "approved_revenue": 420.0,
+  "statement_commission": 36.0,
+  "epc": 12.0,
+  "duplicate_click_ids": [
+    "C2"
+  ],
+  "unmatched_orders": [
+    "O3"
+  ],
+  "observation": "Two valid approved orders generated attributable revenue.",
+  "inference": "The sample is too small for a channel winner.",
+  "recommendation": "Run a two-week creative test with unsubscribe and reversal guardrails.",
+  "requires_human_approval": true
+}

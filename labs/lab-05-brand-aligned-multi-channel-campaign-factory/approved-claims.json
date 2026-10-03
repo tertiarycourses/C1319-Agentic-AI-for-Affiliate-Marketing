@@ -1,0 +1,10 @@
+{
+  "product_id": "PROD-TRAVEL-01",
+  "approved": [
+    "flexible cancellation on eligible bookings"
+  ],
+  "prohibited": [
+    "guaranteed lowest price"
+  ],
+  "effective_at": "2026-09-10"
+}

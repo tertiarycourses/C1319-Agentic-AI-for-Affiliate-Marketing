@@ -1,0 +1,5 @@
+partner_id,channel,score,forecast_clicks,forecast_conversions,commission_rate
+P-101,blog,86.1,2400,96,0.12
+P-103,video,84.3,3200,102,0.12
+P-104,email,78.8,1800,108,0.12
+P-105,social,73.5,4100,74,0.10

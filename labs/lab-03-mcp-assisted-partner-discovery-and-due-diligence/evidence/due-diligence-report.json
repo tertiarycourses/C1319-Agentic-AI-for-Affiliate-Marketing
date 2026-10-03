@@ -1,0 +1,54 @@
+[
+  {
+    "partner_id": "P-101",
+    "name": "Roam Better",
+    "channel": "blog",
+    "audience_fit": "92",
+    "identity_evidence": "90",
+    "engagement_quality": "78",
+    "policy_risk": "12",
+    "source_url": "https://example.com/partners/roam",
+    "weighted_score": 87.6,
+    "decision": "review",
+    "connector_scope": "read-only"
+  },
+  {
+    "partner_id": "P-102",
+    "name": "Deal Burst",
+    "channel": "social",
+    "audience_fit": "64",
+    "identity_evidence": "75",
+    "engagement_quality": "88",
+    "policy_risk": "48",
+    "source_url": "https://example.com/partners/deal",
+    "weighted_score": 71.5,
+    "decision": "hold",
+    "connector_scope": "read-only"
+  },
+  {
+    "partner_id": "P-103",
+    "name": "Planner Pro",
+    "channel": "video",
+    "audience_fit": "86",
+    "identity_evidence": "88",
+    "engagement_quality": "82",
+    "policy_risk": "15",
+    "source_url": "https://example.com/partners/planner",
+    "weighted_score": 85.4,
+    "decision": "review",
+    "connector_scope": "read-only"
+  },
+  {
+    "partner_id": "P-104",
+    "name": "Weekend Notes",
+    "channel": "email",
+    "audience_fit": "79",
+    "identity_evidence": "84",
+    "engagement_quality": "76",
+    "policy_risk": "18",
+    "source_url": "https://example.com/partners/weekend",
+    "weighted_score": 79.8,
+    "decision": "review",
+    "connector_scope": "read-only"
+  }
+]

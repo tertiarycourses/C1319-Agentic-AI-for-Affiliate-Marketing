@@ -1,0 +1,4 @@
+offer_id,niche,commission_rate,aov,conversion_rate,refund_rate,cookie_days,evidence_score,policy_score
+OFF-A,travel-planning,0.12,140,0.032,0.09,30,92,95
+OFF-B,travel-planning,0.18,95,0.024,0.17,7,68,72
+OFF-C,creator-software,0.25,60,0.048,0.05,45,88,90

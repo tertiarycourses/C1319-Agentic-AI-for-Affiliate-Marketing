@@ -1,0 +1,16 @@
+{
+  "tool_name": "search_partner_catalogue",
+  "permission": "read-only",
+  "inputs": [
+    "query",
+    "channel",
+    "country"
+  ],
+  "outputs": [
+    "partner_id",
+    "source_url",
+    "captured_at"
+  ],
+  "timeout_seconds": 20,
+  "audit_required": true
+}

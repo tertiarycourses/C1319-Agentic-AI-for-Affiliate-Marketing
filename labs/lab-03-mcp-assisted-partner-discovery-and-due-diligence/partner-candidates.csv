@@ -1,0 +1,5 @@
+partner_id,name,channel,audience_fit,identity_evidence,engagement_quality,policy_risk,source_url
+P-101,Roam Better,blog,92,90,78,12,https://example.com/partners/roam
+P-102,Deal Burst,social,64,75,88,48,https://example.com/partners/deal
+P-103,Planner Pro,video,86,88,82,15,https://example.com/partners/planner
+P-104,Weekend Notes,email,79,84,76,18,https://example.com/partners/weekend

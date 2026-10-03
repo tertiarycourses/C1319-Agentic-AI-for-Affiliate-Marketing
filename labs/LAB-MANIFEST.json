@@ -1,0 +1,103 @@
+[
+  {
+    "lab": 1,
+    "title": "Affiliate Offer Economics and Niche Fit",
+    "folder": "lab-01-affiliate-offer-economics-and-niche-fit",
+    "criteria": "LO1",
+    "files": [
+      "CHECKLIST.md",
+      "README.md",
+      "evidence",
+      "niche-brief.md",
+      "offer-inputs.csv",
+      "offer_economics.py",
+      "offers.csv"
+    ]
+  },
+  {
+    "lab": 2,
+    "title": "Trend Monitor and Product Update Skill",
+    "folder": "lab-02-trend-monitor-and-product-update-skill",
+    "criteria": "LO1",
+    "files": [
+      "CHECKLIST.md",
+      "README.md",
+      "SKILL.md",
+      "evidence",
+      "product-catalog.csv",
+      "product-record.json",
+      "skills",
+      "templates",
+      "trend-signals.csv",
+      "validate_update.py"
+    ]
+  },
+  {
+    "lab": 3,
+    "title": "MCP-Assisted Partner Discovery and Due Diligence",
+    "folder": "lab-03-mcp-assisted-partner-discovery-and-due-diligence",
+    "criteria": "LO2",
+    "files": [
+      "CHECKLIST.md",
+      "MCP-READ-ONLY-CONTRACT.json",
+      "README.md",
+      "affiliate-candidates.csv",
+      "evidence",
+      "mcp-tool-contract.json",
+      "partner-candidates.csv",
+      "partner_due_diligence.py"
+    ]
+  },
+  {
+    "lab": 4,
+    "title": "Affiliate Portfolio and Communication Agent",
+    "folder": "lab-04-affiliate-portfolio-and-communication-agent",
+    "criteria": "LO2",
+    "files": [
+      "CHECKLIST.md",
+      "README.md",
+      "communication-brief.md",
+      "communication-cadence.csv",
+      "evidence",
+      "portfolio-input.csv",
+      "portfolio.csv",
+      "portfolio_analysis.py",
+      "skills",
+      "templates"
+    ]
+  },
+  {
+    "lab": 5,
+    "title": "Brand-Aligned Multi-Channel Campaign Factory",
+    "folder": "lab-05-brand-aligned-multi-channel-campaign-factory",
+    "criteria": "LO3",
+    "files": [
+      "CHECKLIST.md",
+      "README.md",
+      "approved-brief.json",
+      "approved-claims.json",
+      "campaign-brief.json",
+      "compliance_check.py",
+      "content-drafts.csv",
+      "evidence",
+      "skills",
+      "tracking-contract.md"
+    ]
+  },
+  {
+    "lab": 6,
+    "title": "Attribution, Commission and Performance Reporting Agent",
+    "folder": "lab-06-attribution-commission-and-performance-reporting-agent",
+    "criteria": "LO3",
+    "files": [
+      "CHECKLIST.md",
+      "README.md",
+      "click-events.csv",
+      "commission-statement.csv",
+      "conversion-events.csv",
+      "evidence",
+      "metric-dictionary.md",
+      "reporting_agent.py"
+    ]
+  }
+]

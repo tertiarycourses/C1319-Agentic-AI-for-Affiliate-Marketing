@@ -1,0 +1,4 @@
+tier,review_frequency,response_sla_hours,escalation_owner
+strategic,weekly,24,Affiliate Lead
+growth,fortnightly,48,Partner Manager
+standard,monthly,72,Partner Operations
