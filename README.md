@@ -75,7 +75,7 @@ Each lab folder contains its own procedure, acceptance checklist, supplied synth
 
 | Artifact | Editable | PDF |
 |---|---|---|
-| Slide deck | [PPTX](<courseware/Agentic AI for Affiliate Marketing-v1.0.pptx>) | [PDF](<courseware/Agentic AI for Affiliate Marketing-v1.0.pdf>) |
+| Slide deck | [PPTX](<courseware/Agentic AI for Affiliate Marketing-v2.0.pptx>) | [PDF](<courseware/Agentic AI for Affiliate Marketing-v2.0.pdf>) |
 | Lesson Plan | [DOCX](<courseware/LP-Agentic AI for Affiliate Marketing.docx>) | [PDF](<courseware/LP-Agentic AI for Affiliate Marketing.pdf>) |
 | Learner Guide | [DOCX](<courseware/LG-Agentic AI for Affiliate Marketing.docx>) | [PDF](<courseware/LG-Agentic AI for Affiliate Marketing.pdf>) |
 
